@@ -8,4 +8,4 @@ This repository contains examples of new functionality found in Db2 11.5 and Dat
 
 The Db2 Jupyter Extensions are already found in this repository and are used by the labs.
 
-#### Credits: IBM 2019, George Baklarz [baklarz@ca.ibm.com], Peter Kohlmann [kolhmann@ca.ibm.com)
+#### Credits: IBM 2019, Peter Kohlmann [kohlmann@ca.ibm.com], George Baklarz [baklarz@ca.ibm.com], 
