@@ -1,4 +1,4 @@
-# Db2 Data Management Console
+# IBM Cloud Pak for Data Virtualization
 This repository contains examples used to demonstrate Data Virtualiation in IBM Cloud Pak for Data.
 
 The Db2 Jupyter Extensions are already found in this repository and are used by the labs.
